@@ -64,12 +64,4 @@ Learn more about Turborepo, the monorepo tool used in this project: [Documentati
 
 [MIT](LICENSE)
 
-## Security
 
-If you find a vulnerability in the repository, please email the organization owner (`vulnerability@dxrating.net`). We kindly ask you not to disclose the detail of the vulnerability to the public before we have released a fix. Thanks for making DXRating a better site!
-
-## Contributors
-
-This project is made possible by the following contributors. Contributions are always welcome!
-
-[![Contributors](https://contrib.rocks/image?repo=gekichumai/dxrating)](https://github.com/gekichumai/dxrating/graphs/contributors)
